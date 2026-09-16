@@ -3,7 +3,7 @@ Silicon Oasis / 《硅基绿洲》源代码仓库
 
 🎮 游戏发布页（下载游戏）：dfnjf/Silicon_Oasis
 
-🌐 官方网站：https://silicon-oasis.cc.cd
+🌐 官方网站：https://silicon-oasis.ccwu.cc/
 
 📄 开源协议 / License
 本项目采用 MIT License 开源协议。
@@ -12,7 +12,7 @@ This project is licensed under the MIT License.
 
 🔗 相关链接 / Links
 链接 / Link	地址 / URL
-🌐 官方网站 / Official Website	https://silicon-oasis.cc.cd
+🌐 官方网站 / Official Website	https://silicon-oasis.ccwu.cc/
 
 🎮 游戏发布页 / Release Page	https://github.com/dfnjf/Silicon_Oasis
 
