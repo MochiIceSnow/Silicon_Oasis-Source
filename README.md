@@ -12,30 +12,6 @@ Silicon Oasis / 《硅基绿洲》源代码仓库
 构建工具 / Build Tool	Maven / Gradle
 打包分发 / Packaging	jpackage / Packr
 渲染 / Rendering	Low-Poly + Bloom (OpenGL)
-📁 项目结构 / Project Structure
-bash
-Silicon_Oasis-Source/
-├── README.md                      # 本文件 / This file
-├── LICENSE                        # 开源协议 / License
-├── .gitignore                     # Git 忽略配置 / Git ignore rules
-├── pom.xml                        # Maven 构建配置 / Maven build config
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/siliconoasis/
-│   │   │       ├── core/          # 游戏入口与主循环 / Game entry & main loop
-│   │   │       ├── world/         # 世界与场景管理 / World & scene management
-│   │   │       ├── entity/        # 实体系统 / Entity system
-│   │   │       ├── synthesis/     # 合成系统 / Synthesis system
-│   │   │       ├── automation/    # 自动化系统 / Automation system
-│   │   │       ├── ecology/       # 生态系统 / Ecosystem
-│   │   │       ├── ui/            # 用户界面 / UI
-│   │   │       └── save/          # 存档系统 / Save system
-│   │   └── resources/
-│   │       ├── assets/            # 游戏资源 / Game assets
-│   │       └── data/              # 游戏数据 / Game data
-│   └── test/                      # 单元测试 / Unit tests
-└── docs/                          # 设计文档 / Design docs
 🚀 快速开始 / Quick Start
 环境要求 / Prerequisites
 Java JDK 17 或更高版本 / Java JDK 17 or later
